@@ -1,1 +1,1 @@
-print ("This is my first poython file")
+print ("My Name is Sonish Sinjali Magar")
